@@ -34,7 +34,7 @@ All notebooks to re-create figures are in the [notebooks](https://github.com/qui
 Simply clone the repository and run a notebook as follows:
 
 ```
-git clone https://github.com/quinlan-lab/human-rae-manuscript
+git clone https://github.com/snkravitz/human-rae-manuscript
 
 cd human-rae-manuscript/notebooks
 
